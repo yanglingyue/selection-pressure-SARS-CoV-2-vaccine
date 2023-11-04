@@ -1,9 +1,9 @@
 # Global disparities in COVID-19 vaccine coverage associated with trajectories of SARS-CoV-2 adaptation
 
-# Calculation of the ratio of nonsynonymous to synonymous divergence （dN/dS ratio）
+Calculation of the ratio of nonsynonymous to synonymous divergence （dN/dS ratio）
 The scripts used in this paper to calculate dN/dS ratios are largely based on a previous analysis developed by Kistler and colleagues [1].
 
-# Causal analysis
+Causal analysis
 We conducted a nonlinear causality test based on CCM analysis using the 'rEDM' R package (Version 0.7.5) [2,3], which can be installed with the following R code: 
 
 devtools::install_github("ha0ye/rEDM")
