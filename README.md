@@ -14,7 +14,7 @@ We calculated the dN/dS ratios to assess selection pressure on SARS-CoV-2 protei
 
 **We provided the code for calculating adaptation metrics based on the phylogenetic analysis of Denmark to calculate dN/dS ratio (adaptation_calculation/ncov_Denmark/analysis/dnds_nextstrain_Denmark.ipynb), the number of nonsynonymous mutations, and mutational fitness (adaptation_calculation/ncov_Denmark/analysis/mutation_nextstrain_Denmark.ipynb).** The calculation of the three metrics of SARS-CoV-2 adaptation for other countries and additional subsampled datasets from the 10 bootstrap is consistent with the code used for Denmark, with the only difference being the read of the phylogenetic data.
 
-**Additionally, we provided the code for calculating the dN/dS ratio (located in adaptation_calculation/ncov_neherlab_Denmark/analysis/dnds_nextstrain_Denmark.ipynb), the number of nonsynonymous mutations and mutational fitness (found in adaptation_calculation/ncov_neherlab_Denmark/analysis/mutation_nextstrain_Denmark.ipynb) based on the publicly available SARS-CoV-2 phylogeny.**
+**Additionally, we provided the code for calculating the dN/dS ratio (adaptation_calculation/ncov_neherlab_Denmark/analysis/dnds_nextstrain_Denmark.ipynb), the number of nonsynonymous mutations and mutational fitness (adaptation_calculation/ncov_neherlab_Denmark/analysis/mutation_nextstrain_Denmark.ipynb) based on the publicly available SARS-CoV-2 phylogeny.**
 
 **Statistical analysis**
 
