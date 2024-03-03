@@ -1,1 +1,0 @@
-tree frequencies written to results/Denmark-build/tip-frequencies.json

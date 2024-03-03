@@ -1,4 +1,0 @@
-Parsed 2 metadata TSVs
-	reference_data (results/sanitized_metadata_reference_data.tsv.xz): 273 strains x 56 columns
-	Denmark_data (results/sanitized_metadata_Denmark_data.tsv.xz): 6200 strains x 30 columns
-Combined metadata: 6473 strains x 74 columns
