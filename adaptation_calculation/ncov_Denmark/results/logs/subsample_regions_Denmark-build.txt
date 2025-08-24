@@ -1,0 +1,4 @@
+8 strains were dropped during filtering
+	6473 of these were dropped by `--exclude-all`
+	6473 strains were added back because they were in results/Denmark-build/sample-all.txt
+6465 strains passed all filters
