@@ -43,4 +43,4 @@ devtools::install_github("ha0ye/rEDM")
 7.	Obermeyer, F. et al. Analysis of 6.4 million SARS-CoV-2 genomes identifies mutations associated with fitness. Science 376, 1327-1332 (2022).
 8.	Gasparrini, A. Modeling exposure-lag-response associations with distributed lag non-linear models. Stat Med 33, 881-899 (2014).
 9. Sugihara, G. et al. Detecting Causality in Complex Ecosystems. Science 338, 496-500 (2012).
-10. Ye, H., Clark, A., Deyle, E., & Sugihara, G., rEDM: An R package for Empirical Dynamic Modeling and Convergent Cross Mapping. https://ha0ye.github.io/rEDM/articles/rEDM.html#generalized-takenss-theorem (2019). 
+10. Ye, H., Clark, A., Deyle, E., & Sugihara, G., rEDM: An R package for Empirical Dynamic Modeling and Convergent Cross Mapping. https://ha0ye.github.io/rEDM/articles/rEDM.html#generalized-takenss-theorem (2019).
